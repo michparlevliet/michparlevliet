@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michparlevliet
 - 👀 I’m interested in databases and full-stack development
-- 🌱 I’m currently learning JS, HTML, CSS, C#, and SQL. I'd like to learn Python next.
+- 🌱 I’m currently working with JS, node.js, C#, and PHP. I'd like to learn Python next.
 
 <!---
 michparlevliet/michparlevliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
